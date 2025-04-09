@@ -1,3 +1,5 @@
+ServerName localhost
+
 RewriteEngine On
 
 # Rewrite rules for pages with optional trailing slash
