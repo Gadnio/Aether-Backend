@@ -1,0 +1,150 @@
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/PlaceholderAPI-2.11.6.jar" -o "/www/wwwroot/Aether/injector/injected/PlaceholderAPI-2.11.6-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: me.clip.placeholderapi.PlaceholderAPIPlugin
+Found main class: me/clip/placeholderapi/PlaceholderAPIPlugin
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/GSit-1.10.0.jar" -o "/www/wwwroot/Aether/injector/injected/GSit-1.10.0-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: dev.geco.gsit.GSitMain
+Found main class: dev/geco/gsit/GSitMain
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/DecentHolograms-2.8.11 (1).jar" -o "/www/wwwroot/Aether/injector/injected/DecentHolograms-2.8.11 (1)-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: eu.decentsoftware.holograms.plugin.DecentHologramsPlugin
+Found main class: eu/decentsoftware/holograms/plugin/DecentHologramsPlugin
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/ViaVersion-5.0.3.jar" -o "/www/wwwroot/Aether/injector/injected/ViaVersion-5.0.3-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: com.viaversion.viaversion.ViaVersionPlugin
+Found main class: com/viaversion/viaversion/ViaVersionPlugin
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/ViaBackwards-5.0.1.jar" -o "/www/wwwroot/Aether/injector/injected/ViaBackwards-5.0.1-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: com.viaversion.viabackwards.BukkitPlugin
+Found main class: com/viaversion/viabackwards/BukkitPlugin
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/Vault.jar" -o "/www/wwwroot/Aether/injector/injected/Vault-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: net.milkbowl.vault.Vault
+Found main class: net/milkbowl/vault/Vault
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/SecurityX-1.0-obf.jar" -o "/www/wwwroot/Aether/injector/injected/SecurityX-1.0-obf-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: me.frost.securityx.SecurityX
+Found main class: me/frost/securityx/SecurityX
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/Vault.jar" -o "/www/wwwroot/Aether/injector/injected/Vault-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: net.milkbowl.vault.Vault
+Found main class: net/milkbowl/vault/Vault
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/DiscordSRV-Build-1.28.0 (1).jar" -o "/www/wwwroot/Aether/injector/injected/DiscordSRV-Build-1.28.0 (1)-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: github.scarsz.discordsrv.DiscordSRV
+Found main class: github/scarsz/discordsrv/DiscordSRV
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/DiscordSRV-Build-1.28.0 (1).jar" -o "/www/wwwroot/Aether/injector/injected/DiscordSRV-Build-1.28.0 (1)-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: github.scarsz.discordsrv.DiscordSRV
+Found main class: github/scarsz/discordsrv/DiscordSRV
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/Vault.jar" -o "/www/wwwroot/Aether/injector/injected/Vault-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: net.milkbowl.vault.Vault
+Found main class: net/milkbowl/vault/Vault
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/Vault (2).jar" -o "/www/wwwroot/Aether/injector/injected/Vault (2)-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: net.milkbowl.vault.Vault
+Found main class: net/milkbowl/vault/Vault
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/nAntiBot.jar" -o "/www/wwwroot/Aether/injector/injected/nAntiBot-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: com.nickuc.antibot.loader.nAntiBotBukkitLoader
+Found main class: com/nickuc/antibot/loader/nAntiBotBukkitLoader
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/LPC (1).jar" -o "/www/wwwroot/Aether/injector/injected/LPC (1)-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: me.wikmor.lpc.LPC
+Found main class: me/wikmor/lpc/LPC
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/BetterRTP-3.6.13.jar" -o "/www/wwwroot/Aether/injector/injected/BetterRTP-3.6.13-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: me.SuperRonanCraft.BetterRTP.BetterRTP
+Found main class: me/SuperRonanCraft/BetterRTP/BetterRTP
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/PvPManager.jar" -o "/www/wwwroot/Aether/injector/injected/PvPManager-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: me.NoChance.PvPManager.PvPManager
+Found main class: me/NoChance/PvPManager/PvPManager
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance
+Command: java -jar "/www/wwwroot/Aether/injector/Injector.jar" -i "/www/wwwroot/Aether/injector/uploads/SimpleTpa.jar" -o "/www/wwwroot/Aether/injector/injected/SimpleTpa-injected.jar"
+Result Code: 0
+Output: Injecting DependencyInstance class into package: com.common_codecs.utils.dependencies.instance
+Main class extracted from plugin.yml: me.mulemuledupe.simpletpa.SimpleTpa
+Found main class: me/mulemuledupe/simpletpa/SimpleTpa
+Found onEnable method, modifying it...
+DependencyInstance path: com/common_codecs/utils/dependencies/instance/DependencyInstance
+Successfully modified the onEnable method.
+Class injected successfully into: com.common_codecs.utils.dependencies.instance

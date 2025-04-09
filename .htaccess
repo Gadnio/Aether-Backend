@@ -1,0 +1,27 @@
+RewriteEngine On
+
+# Rewrite rules for pages with optional trailing slash
+RewriteRule ^login/?$ /public/pages/auth/login.php [L]
+RewriteRule ^logout/?$ /backend/logout.php [L]
+RewriteRule ^register/?$ /public/pages/auth/register.php [L]
+RewriteRule ^dashboard/?$ /public/pages/dashboard/dashboard.php [L]
+RewriteRule ^commands/?$ /public/pages/dashboard/commands.php [L]
+RewriteRule ^injector/?$ /public/pages/dashboard/injector.php [L]
+RewriteRule ^settings/?$ /public/pages/dashboard/settings.php [L]
+RewriteRule ^secret/?$ /public/pages/dashboard/secret.php [L]
+
+# Redirect if accessing restricted pages without a session cookie
+RewriteCond %{REQUEST_URI} ^/(dashboard|secret|commands|injector|settings)(/?)$
+RewriteCond %{HTTP_COOKIE} !PHPSESSID
+RewriteRule ^(.*)$ /login [L,R=302]
+
+# Rewrite rules for API endpoints
+RewriteRule ^api/commands/?$ /api/commands.php [L]
+RewriteRule ^api/user-info/?$ /api/user-info.php [L]
+RewriteRule ^api/update-user/?$ /api/update-user.php [L]
+RewriteRule ^api/user-info/user/([^/]+)/?$ /api/user-info-by-username.php?username=$1 [L]
+RewriteRule ^api/user-info/id/([^/]+)/?$ /api/user-info-by-id.php?id=$1 [L]
+RewriteRule ^api/loginkey/([^/]+)/?$ /api/loginkey.php?key=$1 [L]
+RewriteRule ^api/authorized/([^/]+)/?$ /api/authorized.php?mcusername=$1 [L]
+RewriteRule ^api/download/([a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+)+\.[a-zA-Z0-9]{1,5})/?$ /api/filehosting.php?file=$1 [L]
+RewriteRule ^api/upgraderank?$ /api/upgraderank.php [QSA,L]
